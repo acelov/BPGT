@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandySmith.BlockPuzzle.Main", "CandySmith.BlockPuzzle.Main.csproj", "{2a2343a6-f48e-e99a-0623-742daddca930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTween.Modules", "DOTween.Modules.csproj", "{e90781db-6378-7d59-5a39-55db0cd14268}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7f6d6b90-8374-d4d3-3f92-1f27d360ec1f}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandySmith.BlockPuzzle.LevelEditor", "CandySmith.BlockPuzzle.LevelEditor.csproj", "{4bc3d3b6-e110-7ab1-02d4-5c0b285f1514}"
@@ -13,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCreatorEditor", "ImageCreatorEditor.csproj", "{3a177a39-ffbb-6ea4-25a7-e4a5efbbafa8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{746f36dd-f2dd-e4de-91c6-edc860641aa0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,8 +18,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2a2343a6-f48e-e99a-0623-742daddca930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2a2343a6-f48e-e99a-0623-742daddca930}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{e90781db-6378-7d59-5a39-55db0cd14268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{e90781db-6378-7d59-5a39-55db0cd14268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7f6d6b90-8374-d4d3-3f92-1f27d360ec1f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7f6d6b90-8374-d4d3-3f92-1f27d360ec1f}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4bc3d3b6-e110-7ab1-02d4-5c0b285f1514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -32,8 +26,6 @@ Global
 		{342d76ba-8151-1aca-361e-030cf92b0b50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3a177a39-ffbb-6ea4-25a7-e4a5efbbafa8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3a177a39-ffbb-6ea4-25a7-e4a5efbbafa8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{746f36dd-f2dd-e4de-91c6-edc860641aa0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{746f36dd-f2dd-e4de-91c6-edc860641aa0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
